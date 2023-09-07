@@ -11,8 +11,8 @@ const Header = () => {
         setIsMenuOpen(!isMenuOpen);
     };
     return (
-        <nav className='flex items-center justify-between mx-10 my-5 '>
-            <div className="flex items-center p-5 text-xl" id="left-nav">
+        <nav className='flex items-center justify-between'>
+            <div className="flex items-center py-5 text-xl" id="left-nav">
                 <img src={logoSvg} alt="Logo" />
                 <div
                     id="list"
