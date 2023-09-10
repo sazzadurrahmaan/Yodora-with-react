@@ -1,4 +1,4 @@
-#team-text,#team-img{
+#team-text,#team-img,#team-info{
     margin:8px 8%;
 }
 #team-text  h1{
@@ -6,4 +6,21 @@
 }
 #team-img{
     margin-top: 5rem;
+}
+#team-info h1{
+    color: #FFB84C;
+font-family: Poppins;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: 48px; /* 120% */
+margin-top: 20px;
+}
+#team-info p{
+    color: #FFF;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 150% */
 }
