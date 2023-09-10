@@ -9,6 +9,9 @@ export default {
       fontFamily: {
         poppins: ['Poppins', 'sans-serif'],
       },
+      linearGradientColors: {
+        'black-white': ['black 50%', 'white 50%'],
+      },
     },
   },
   plugins: [],
