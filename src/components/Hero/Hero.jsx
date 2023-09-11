@@ -5,6 +5,7 @@ import circleImage from '../../assets/Frame.png'
 import floatingImage from '../../assets/img.png'
 import Team from '../Team/Team';
 import Creators from '../Creators/Creators';
+import GetStarted from '../GetStarted/GetStarted';
 const Hero = () => {
     return (
         <div >
@@ -31,6 +32,7 @@ const Hero = () => {
             </section> */}
             <Team></Team>
             <Creators></Creators>
+            <GetStarted></GetStarted>
         </div>
     );
 };

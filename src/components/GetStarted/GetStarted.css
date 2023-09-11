@@ -1,0 +1,31 @@
+#get-started{
+    margin:38px 8%;
+}
+#get-started h1{
+    color: #FFF;
+text-align: center;
+font-family: Poppins;
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: 40px; /* 125% */
+}
+#get-started p{
+    color: #FFF;
+text-align: center;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+ /* 150% */
+ margin-top: 20px;
+}
+#get-started button{
+    display: flex;
+padding: 16px 32px;
+margin: 20px auto;
+gap: 10px;
+border-radius: 32px;
+background: #FFB84C;
+}

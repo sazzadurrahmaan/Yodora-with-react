@@ -12,6 +12,9 @@ export default {
       linearGradientColors: {
         'black-white': ['black 50%', 'white 50%'],
       },
+      colors:{
+        'custom-color': '#2B2730',
+      }
     },
   },
   plugins: [],

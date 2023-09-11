@@ -11,7 +11,7 @@ const Team = () => {
         <section className='bg-gray-900 pb-10' id="team">
             <div id="team-text">
                 <h1 className='md:text-4xl lg:text-5xl font-poppins text-3xl  font-semibold  tracking-wide text-white'><span className='text-orange-500 '>Get direct</span><br />
-                    knowledge and <br /> insight.
+                    knowledge and  insight.
                 </h1>
             </div>
             <div id="team-img" className='md:grid grid-cols-3 gap-6'>
