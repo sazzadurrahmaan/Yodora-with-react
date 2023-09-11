@@ -6,6 +6,7 @@ import floatingImage from '../../assets/img.png'
 import Team from '../Team/Team';
 import Creators from '../Creators/Creators';
 import GetStarted from '../GetStarted/GetStarted';
+import Footer from '../Footer/Footer';
 const Hero = () => {
     return (
         <div >
@@ -33,6 +34,7 @@ const Hero = () => {
             <Team></Team>
             <Creators></Creators>
             <GetStarted></GetStarted>
+           <Footer></Footer>
         </div>
     );
 };

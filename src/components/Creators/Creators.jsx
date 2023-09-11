@@ -10,7 +10,7 @@ const Creators = () => {
             <div id="why">
                 <h1 className='text-2xl font-semibold tracking-wide mt-5'>Why become a creator?</h1>
                 <p className='text-xl font-normal tracking wide mt-6'>Engage with your supporter and <br/> subscriber to sell your skills, knowledge <br/> and passions </p>
-                <button className='flex justify-center items-center px-8 py-3 mt-6 bg-gray-900 border rounded-full text-white'>Become a creator</button>
+                <button className='flex justify-center items-center px-8 py-3 mt-6 bg-gray-900 border rounded-full text-white md:w-52 md:p-5'>Become a creator</button>
             </div>
             <div id="eafe" className='m-auto text-center md:grid md:grid-cols-2 md:gap-8'>
                 <div className="engagement">
