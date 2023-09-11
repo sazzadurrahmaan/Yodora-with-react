@@ -10,7 +10,7 @@ const Team = () => {
     return (
         <section className='bg-custom-color md:pb-10 p-5' id="team">
             <div id="team-text" >
-                <h1 className='mt-28 md:mt-64 md:mt-40 md:text-4xl lg:text-5xl font-poppins text-3xl  font-semibold  text-white'><span className='text-orange-500 '>Get direct</span><br />
+                <h1 className='mt-28 md:mt-96 md:mt-40 md:text-4xl lg:text-5xl font-poppins text-3xl  font-semibold  text-white'><span className='text-orange-500 '>Get direct</span><br />
                     knowledge and  insight.
                 </h1>
             </div>

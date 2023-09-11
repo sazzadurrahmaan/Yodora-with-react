@@ -11,8 +11,8 @@ const Hero = () => {
     return (
         <div >
             <Header></Header>
-            <section id="hero"  className='relative pb-24  md:pb-64'>
-                <div className=" flex justify-between">
+            <section id="hero"  className='relative pb-24  md:pb-80'>
+                <div className=" flex justify-between items-center">
                     <div className="hero-text">
                         <h1 className=" md:mt-20 text-2xl md:text-4xl lg:text-5xl font-semibold tracking-wide mb-10">
                             Learn from your<br />
@@ -25,7 +25,7 @@ const Hero = () => {
                             src={circleImage} alt="" />
                     </div>
                 </div>
-                <div id="floating-image" className='md:absolute md:top-60 absolute top-50'>
+                <div id="floating-image" className='md:absolute md:top-72 absolute top-50'>
                     <img src={floatingImage} alt="" />
                 </div>
             </section>
